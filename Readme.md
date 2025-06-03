@@ -1,1 +1,3 @@
-Please clean this code as thoroughly as possible. While it executes without errors, its current writing style has many flaws and lacks clarity.
+# Factory pattern
+
+This branch contains my exercice about the toy factory made in PROG5 course
